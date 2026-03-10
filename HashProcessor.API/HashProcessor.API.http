@@ -1,0 +1,6 @@
+@HashProcessor.API_HostAddress = http://localhost:5116
+
+GET {{HashProcessor.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
