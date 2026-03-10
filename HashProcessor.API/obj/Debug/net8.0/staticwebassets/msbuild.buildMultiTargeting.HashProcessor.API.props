@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\HashProcessor.API.props" />
-</Project>
