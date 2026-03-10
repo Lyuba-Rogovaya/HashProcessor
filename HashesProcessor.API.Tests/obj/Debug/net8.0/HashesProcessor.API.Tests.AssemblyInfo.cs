@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HashesProcessor.API.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+088ee1085f38a9db1f52eda23cb2d7e4be5a33f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HashesProcessor.API.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HashesProcessor.API.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

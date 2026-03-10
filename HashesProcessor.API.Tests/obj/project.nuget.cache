@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WVYSvhkqzgPNI3gMivA+GvZHdqGYM+y4lweQuAMu8KjvJT1mcshYk+gt/5VrEonfZwmJ8LlJi3NbUNuxqIM8AQ==",
+  "dgSpecHash": "GHXSasAzAuRKmHHkwN7v8BYiGcLo0otZj1eMHjSBrpUKkOHGjeDiLKSb74vWPpzXdDQNWPoHbJCHZvZyQOttYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashesProcessor.API.Tests\\HashesProcessor.API.Tests.csproj",
+  "projectFilePath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashesProcessor.API.Tests\\HashesProcessor.API.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XXX\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\XXX\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashesProcessor.API.Tests\\HashesProcessor.API.Tests.csproj": {}
+    "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashesProcessor.API.Tests\\HashesProcessor.API.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashesProcessor.API.Tests\\HashesProcessor.API.Tests.csproj": {
+    "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashesProcessor.API.Tests\\HashesProcessor.API.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashesProcessor.API.Tests\\HashesProcessor.API.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashesProcessor.API.Tests\\HashesProcessor.API.Tests.csproj",
         "projectName": "HashesProcessor.API.Tests",
-        "projectPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashesProcessor.API.Tests\\HashesProcessor.API.Tests.csproj",
+        "projectPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashesProcessor.API.Tests\\HashesProcessor.API.Tests.csproj",
         "packagesPath": "C:\\Users\\XXX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashesProcessor.API.Tests\\obj\\",
+        "outputPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashesProcessor.API.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\XXX\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\HashProcessor.API.csproj": {
-                "projectPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\HashProcessor.API.csproj"
+              "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\HashProcessor.API.csproj": {
+                "projectPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\HashProcessor.API.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\HashProcessor.API.csproj": {
+    "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\HashProcessor.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\HashProcessor.API.csproj",
+        "projectUniqueName": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\HashProcessor.API.csproj",
         "projectName": "HashProcessor.API",
-        "projectPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\HashProcessor.API.csproj",
+        "projectPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\HashProcessor.API.csproj",
         "packagesPath": "C:\\Users\\XXX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\obj\\",
+        "outputPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\XXX\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ONLTB+7m/QRAuLgEOTxKuAHxlt+pURrEUNtekQilsRlZ06PwCGpJKXN9cCu2YXYIH0Gy+XvwpOJ5K9n87YFqrQ==",
+  "dgSpecHash": "hFc2sYxZt75dkJ38xG09l7rhZGCRCrZDoHcx3XxIylY1RO/yN7monuvQUSq572ISoloGdJFY7OBqQj+qWbbDhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.Worker\\HashProcessor.Worker.csproj",
+  "projectFilePath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.Worker\\HashProcessor.Worker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XXX\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\XXX\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

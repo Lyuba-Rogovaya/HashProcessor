@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V8Hoi/cpNGJbUY+vcz/M8TLgc6vV1m7SS4uHsnWsFX8zx22Nvp9xNXjYlR4xoxoKQejF2O2UgEJzfAzCkGFDIA==",
+  "dgSpecHash": "YQ01NDlvb2K8abNjAQvWAHKN2TqCVNDgAfQsrxkPqwMBncePO04bDDKjbIx6Q0wl9JHJnSkqghcqosHUK5wFGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\HashProcessor.API.csproj",
+  "projectFilePath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\HashProcessor.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XXX\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.13\\microsoft.entityframeworkcore.9.0.13.nupkg.sha512",
     "C:\\Users\\XXX\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.13\\microsoft.entityframeworkcore.abstractions.9.0.13.nupkg.sha512",

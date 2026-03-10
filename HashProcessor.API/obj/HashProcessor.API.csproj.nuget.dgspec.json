@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\HashProcessor.API.csproj": {}
+    "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\HashProcessor.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\HashProcessor.API.csproj": {
+    "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\HashProcessor.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\HashProcessor.API.csproj",
+        "projectUniqueName": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\HashProcessor.API.csproj",
         "projectName": "HashProcessor.API",
-        "projectPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\HashProcessor.API.csproj",
+        "projectPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\HashProcessor.API.csproj",
         "packagesPath": "C:\\Users\\XXX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor.Worker\\HashProcessor.API\\obj\\",
+        "outputPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\XXX\\AppData\\Roaming\\NuGet\\NuGet.Config",
