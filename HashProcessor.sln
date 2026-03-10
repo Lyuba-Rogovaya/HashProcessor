@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashProcessor.Worker", "Has
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashProcessor.API", "HashProcessor.API\HashProcessor.API.csproj", "{94B0B982-3156-43D6-B779-2E85284EF262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashesProcessor.API.Tests", "HashesProcessor.API.Tests\HashesProcessor.API.Tests.csproj", "{17BA2022-7B70-4655-9623-F2C3F0E3F342}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashesProcessor.API.Tests", "HashesProcessor.API.Tests\HashesProcessor.API.Tests.csproj", "{17BA2022-7B70-4655-9623-F2C3F0E3F342}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20F83C16-5322-4827-8F8F-AC4D397EA24C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

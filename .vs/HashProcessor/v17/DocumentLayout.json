@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\Controllers\\HashesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HashProcessor.API\\Controllers\\HashesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20F83C16-5322-4827-8F8F-AC4D397EA24C}|Solution Items{20F83C16-5322-4827-8F8F-AC4D397EA24C}|C:\\Users\\XXX\\source\\repos\\HashProcessor\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20F83C16-5322-4827-8F8F-AC4D397EA24C}|Solution Items{20F83C16-5322-4827-8F8F-AC4D397EA24C}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.Worker\\Infrastructure\\RabbitMQClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HashProcessor.Worker\\Infrastructure\\RabbitMQClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94B0B982-3156-43D6-B779-2E85284EF262}|HashProcessor.API\\HashProcessor.API.csproj|c:\\users\\xxx\\source\\repos\\hashprocessor\\hashprocessor.api\\controllers\\hashescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B0B982-3156-43D6-B779-2E85284EF262}|HashProcessor.API\\HashProcessor.API.csproj|solutionrelative:hashprocessor.api\\controllers\\hashescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.Worker\\Infrastructure\\MariaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HashProcessor.Worker\\Infrastructure\\MariaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4229DBE-4589-4C58-A869-1C72D13D678F}|HashProcessor.Worker\\HashProcessor.Worker.csproj|c:\\users\\xxx\\source\\repos\\hashprocessor\\hashprocessor.worker\\infrastructure\\rabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4229DBE-4589-4C58-A869-1C72D13D678F}|HashProcessor.Worker\\HashProcessor.Worker.csproj|solutionrelative:hashprocessor.worker\\infrastructure\\rabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.Worker\\Services\\ProcessHashesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HashProcessor.Worker\\Services\\ProcessHashesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4229DBE-4589-4C58-A869-1C72D13D678F}|HashProcessor.Worker\\HashProcessor.Worker.csproj|c:\\users\\xxx\\source\\repos\\hashprocessor\\hashprocessor.worker\\infrastructure\\mariadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4229DBE-4589-4C58-A869-1C72D13D678F}|HashProcessor.Worker\\HashProcessor.Worker.csproj|solutionrelative:hashprocessor.worker\\infrastructure\\mariadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\Services\\HashesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HashProcessor.API\\Services\\HashesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4229DBE-4589-4C58-A869-1C72D13D678F}|HashProcessor.Worker\\HashProcessor.Worker.csproj|c:\\users\\xxx\\source\\repos\\hashprocessor\\hashprocessor.worker\\services\\processhashesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4229DBE-4589-4C58-A869-1C72D13D678F}|HashProcessor.Worker\\HashProcessor.Worker.csproj|solutionrelative:hashprocessor.worker\\services\\processhashesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B0B982-3156-43D6-B779-2E85284EF262}|HashProcessor.API\\HashProcessor.API.csproj|c:\\users\\xxx\\source\\repos\\hashprocessor\\hashprocessor.api\\services\\hashesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B0B982-3156-43D6-B779-2E85284EF262}|HashProcessor.API\\HashProcessor.API.csproj|solutionrelative:hashprocessor.api\\services\\hashesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-03-10T09:51:06.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HashesController.cs",
               "DocumentMoniker": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\Controllers\\HashesController.cs",
               "RelativeDocumentMoniker": "HashProcessor.API\\Controllers\\HashesController.cs",
               "ToolTip": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\Controllers\\HashesController.cs",
               "RelativeToolTip": "HashProcessor.API\\Controllers\\HashesController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T09:09:02.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RabbitMQClient.cs",
               "DocumentMoniker": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.Worker\\Infrastructure\\RabbitMQClient.cs",
               "RelativeDocumentMoniker": "HashProcessor.Worker\\Infrastructure\\RabbitMQClient.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MariaDbContext.cs",
               "DocumentMoniker": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.Worker\\Infrastructure\\MariaDbContext.cs",
               "RelativeDocumentMoniker": "HashProcessor.Worker\\Infrastructure\\MariaDbContext.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProcessHashesService.cs",
               "DocumentMoniker": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.Worker\\Services\\ProcessHashesService.cs",
               "RelativeDocumentMoniker": "HashProcessor.Worker\\Services\\ProcessHashesService.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HashesService.cs",
               "DocumentMoniker": "C:\\Users\\XXX\\source\\repos\\HashProcessor\\HashProcessor.API\\Services\\HashesService.cs",
               "RelativeDocumentMoniker": "HashProcessor.API\\Services\\HashesService.cs",
